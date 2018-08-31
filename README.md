@@ -1,3 +1,3 @@
 # LayoutManagerGroup-master-master
-  https://github.com/tonyxwq/LayoutManagerGroup-master-master/blob/master/picture/img1.gif
+ ![Alt text] (https://github.com/tonyxwq/LayoutManagerGroup-master-master/blob/master/picture/img1.gif)
     
